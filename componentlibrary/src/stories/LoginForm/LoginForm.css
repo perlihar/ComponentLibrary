@@ -1,3 +1,12 @@
+#logingreeting {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  border: 1px solid darkblue;
+  padding: 1rem;
+}
 #logincontainer {
   border: 1px solid black;
   width: 50%;

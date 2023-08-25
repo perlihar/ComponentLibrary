@@ -7,7 +7,7 @@ export interface ILoginForm {
 export const LoginForm = (props: ILoginForm) => {
   return (
     <div id="logincontainer">
-      <div>Logg inn :)</div>
+      <div id="logingreeting">Logg inn :)</div>
       <form id="loginform">
         <div id="username">
           <label>Username</label>
